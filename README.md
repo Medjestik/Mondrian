@@ -12,4 +12,4 @@ Piet Mondriaan, 1921 - Composition en rouge, jaune, bleu et noir
 2. Написать генератор случайных картин.
 
 ## Ссылка на проект 
-[]
+[https://medjestik.github.io/Mondrian/index.html]
